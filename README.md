@@ -1,26 +1,34 @@
-## Hello, I'm Kuldeep.
+# Hello, I'm Kuldeep, You may call me KD or KdPisda.
 
-### Developer, Blogger and an Entrepreneur
-- Full Stack Developer.
-- Love Django and React.
-- Love reading and writing about tech.
-- Contribute to open source whereable possible.
-- Taking deep dives on DevOps.
-- Linux Lover.
+## Developer, Blogger and an Entrepreneur
+
+- Full Stack Developer
+- Love Django and React
+- Love reading and writing about tech
+- Contribute to open source wherever possible
+- Taking deep dives on DevOps
+- Linux Lover
+
 ----------
-### Find me below
+
+## Find me below
 
 [<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-----------
-### Some Fun :P
+<br />
 
-<img align="left" alt="KdPisda's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdpisda&layout=compact" />
-<img align="left" alt="KdPisda's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kdpisda&count_private=true&show_icons=true" />
 ----------
-### Languages and Tools:
+
+## Some Fun :P
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kdpisda&layout=compact)
+
+![Stats](https://github-readme-stats.codestackr.vercel.app/api?username=kdpisda&count_private=true&show_icons=true)
+
+----------
+## Languages and Tools:
 
 <img align ="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" /> 
 
@@ -53,4 +61,3 @@
 [linkedin]:https://www.linkedin.com/in/kuldeeep-pisda
 [instagram]:https://instagram.com/@kdpisda
 [medium]:https://medium.com/@kdpisda
-
