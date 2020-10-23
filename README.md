@@ -59,5 +59,5 @@
 
 [twitter]:https://www.twitter.com/kdpisda
 [linkedin]:https://www.linkedin.com/in/kuldeeep-pisda
-[instagram]:https://instagram.com/@kdpisda
+[instagram]:https://instagram.com/kdpisda
 [medium]:https://medium.com/@kdpisda
