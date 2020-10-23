@@ -15,13 +15,13 @@
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 ----------
-<br/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="left" alt="KdPisda's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kdpisda&count_private=true&show_icons=true" />
 ----------
+
 ### Languages and Tools:
 
 <img align ="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" /> 
