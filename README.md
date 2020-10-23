@@ -51,7 +51,7 @@
 <img align="left" alt="KdPisda's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kdpisda&count_private=true&show_icons=true" />
 
 [twitter]:https://www.twitter.com/kdpisda
-[linkedin]:https://www.linkedin.com/in/kdpisda
+[linkedin]:https://www.linkedin.com/in/kuldeeep-pisda
 [instagram]:https://instagram.com/@kdpisda
 [medium]:https://medium.com/@kdpisda
 
