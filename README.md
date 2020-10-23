@@ -21,7 +21,6 @@
 
 <img align="left" alt="KdPisda's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kdpisda&count_private=true&show_icons=true" />
 ----------
-
 ### Languages and Tools:
 
 <img align ="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" /> 
