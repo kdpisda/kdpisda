@@ -17,6 +17,10 @@
 
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="left" alt="KdPisda's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kdpisda&count_private=true&show_icons=true" />
+
 ### Languages and Tools:
 
 <img align ="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" /> 
@@ -44,11 +48,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<hr>
-
-<img align="left" alt="KdPisda's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kdpisda&count_private=true&show_icons=true" />
+<hr />
 
 [twitter]:https://www.twitter.com/kdpisda
 [linkedin]:https://www.linkedin.com/in/kuldeeep-pisda
