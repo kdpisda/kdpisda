@@ -1,35 +1,27 @@
-# Hello, I'm Kuldeep, You may call me KD or KdPisda.
+# Kuldeep Pisda (KD) - Building the Future of Tech 🚀
 
-## Developer, Blogger and an Entrepreneur
+## About Me 🧑‍💻
 
-- Full Stack Developer
-- Love Django and React
-- Love reading and writing about tech
-- Contribute to open source wherever possible
-- Taking deep dives on DevOps
-- Linux Lover
+Hi, I'm KD, a Full Stack Developer passionate about Django, React, DevOps, and all things tech! I love diving into open-source projects, writing about technology, and contributing to the community. You'll find me exploring Linux or engaging with fellow tech enthusiasts when I'm not coding.
 
-----------
+- 📌 **Full Stack Expertise:** Python, Django, React, JS, and more
+- 🚀 **DevOps Enthusiast:** Continuous improvement through automation
+- ✍️ **Blogger:** Sharing insights and tutorials on [Read Here](https://blog.kdpisda.in)
+- 🎙️ **Speaker:** Presented at DjangoCon US 2022 and 2023 and other tech conferences worldwide. [Invite me]()
+- 🛠️ **Tools I Love:** JetBrains IDEs, Visual Studio Code, Git, Terminal
 
-## Find me below
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-%23FF5722?style=for-the-badge)](https://www.upwork.com/freelancers/kdpisda)
 
-[<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br />
+## Let's Connect! 🌐
 
-----------
+Find me on [LinkedIn](https://www.linkedin.com/in/kuldeeep-pisda), [Twitter](https://www.twitter.com/kdpisda), [Instagram](https://instagram.com/kdpisda), and follow my thoughts on [Blog](https://blog.kdpisda.in).
 
-## Some Fun :P
+## My Stats 📊
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kdpisda&layout=compact)
-
 ![Stats](https://github-readme-stats.codestackr.vercel.app/api?username=kdpisda&count_private=true&show_icons=true)
 
-----------
-## Languages and Tools:
-
+## Languages & Tools I Use 🛠️
 <img align ="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" /> 
 
 <img align ="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /> 
@@ -55,9 +47,11 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<hr />
 
-[twitter]:https://www.twitter.com/kdpisda
-[linkedin]:https://www.linkedin.com/in/kuldeeep-pisda
-[instagram]:https://instagram.com/kdpisda
-[medium]:https://medium.com/@kdpisda
+## Want to Collaborate or Hire Me? 🤝
+
+I'm always open to collaborating on projects and innovative ideas. If you're looking to add a dedicated developer to your team, feel free to click the "Hire Me" badge above or [contact me](https://www.upwork.com/freelancers/kdpisda).
+
+---
+
+**Happy Coding! 🚀**
