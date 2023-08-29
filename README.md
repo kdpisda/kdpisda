@@ -10,7 +10,7 @@ Hi, I'm KD, a Full Stack Developer passionate about Django, React, DevOps, and a
 - 🎙️ **Speaker:** Presented at DjangoCon US 2022 and 2023 and other tech conferences worldwide. [Invite Me](https://sessionize.com/kuldeep-pisda/)
 - 🛠️ **Tools I Love:** JetBrains IDEs, Visual Studio Code, Git, Terminal
 
-[![Hire Me](https://img.shields.io/badge/Hire%20Me-%23FF5722?style=for-the-badge)](https://www.upwork.com/freelancers/kdpisda)
+[![Work with me](https://img.shields.io/badge/Hire%20Me-%23FF5722?style=for-the-badge)](https://www.upwork.com/freelancers/kdpisda)
 
 ## Let's Connect! 🌐
 
